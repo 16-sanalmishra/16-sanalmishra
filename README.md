@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**16-sanalmishra/16-sanalmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...Web Development
+- 🌱 I’m currently learning ... Machine Lerning
+- 👯 I’m looking to collaborate on ... Machine Learning
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ...sanal.m1600@gmail.com
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
+
