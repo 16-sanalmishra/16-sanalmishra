@@ -15,3 +15,4 @@ Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16-sanalmishra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,16-sanalmishra.github.io)](https://github.com/16-sanalmishra/github-readme-stats)
