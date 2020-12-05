@@ -11,3 +11,6 @@ Hi there 👋
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
 
+📊 Github Stats
+Visitor Count
+
