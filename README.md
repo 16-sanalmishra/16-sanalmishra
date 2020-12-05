@@ -11,6 +11,6 @@ Hi there 👋
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![SANAL's github stats](https://github-readme-stats.vercel.app/api?username=16-sanalmishra&theme=dark&show_icons=true)
 
 
