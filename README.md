@@ -11,6 +11,5 @@ Hi there 👋
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
 
-📊 Github Stats
-Visitor Count
+[![SANAL's github stats](https://github-readme-stats.vercel.app/api?username=16-sanalmishra)](https://github.com/anuraghazra/github-readme-stats)
 
