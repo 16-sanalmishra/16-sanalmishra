@@ -12,4 +12,11 @@ Hi there 👋
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
 
 [![SANAL's github stats](https://github-readme-stats.vercel.app/api?username=16-sanalmishra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16-sanalmishra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/16-sanalmishra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=16-sanalmishra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/16-sanalmishra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=16-sanalmishra&repo=convoychat" />
+</a>
+
