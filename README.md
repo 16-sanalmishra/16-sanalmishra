@@ -2,9 +2,9 @@ Hi there 👋
 
 
 
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ... Internet Of Things
-- 👯 I’m looking to collaborate on ... Machine Learning
+- 🔭 I’m currently working on ...Java Fullstack
+- 🌱 I’m currently learning ... Hibernate And Servlets
+- 👯 I’m looking to collaborate on ... Java FSD
 - 📫 How to reach me: ...sanal.m1600@gmail.com
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
 
