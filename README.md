@@ -3,7 +3,7 @@ Hi there 👋
 
 
 - 🔭 I’m currently working on ...Java Fullstack
-- 🌱 I’m currently learning ... Spring And Spring-Boot
+- 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Java FSD
 - 📫 How to reach me: ...sanal.m1600@gmail.com
 - ⚡ Fun fact: ... Only 2% of people pronounce my name correctly. 
